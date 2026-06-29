@@ -1,0 +1,178 @@
+╔══════════════════════════════════════╗
+        📋 SISTEM BOT LEGACY GUILD
+╚══════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💰 HARGA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• 30 hari   = Rp ???
+• 60 hari   = Rp ???
+• 90 hari   = Rp ???
+• Selamanya = Rp ???
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📦 FITUR BOT (LENGKAP)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎉 WELCOME & LEAVE
+  ✅ Welcome otomatis dengan gambar + foto profil member
+  ✅ Pesan leave otomatis saat member keluar
+  ✅ .welcome on/off — aktifkan/nonaktifkan welcome
+  ✅ .leave on/off — aktifkan/nonaktifkan leave
+
+📋 ABSEN
+  ✅ .addabsen vlr/nova/rise — tambah daftar absen
+  ✅ .absen vlr/nova/rise — kirim absen harian
+  ✅ .resetabsen — reset data absen
+  ✅ .info — lihat info absen
+
+🎯 EVENT & JADWAL
+  ✅ .addevent Nama|Tgl|Jam|Lokasi|Desk — tambah event
+  ✅ .editevent no|Nama|Tgl|Jam|Lokasi|Desk — edit event
+  ✅ .delevent nomor — hapus event
+  ✅ .event — lihat semua event
+  ✅ .setjadwal Nama|Hari|Tgl|Jam|Lokasi|Desk — buat jadwal
+  ✅ .editjadwal no|Nama|Hari|Tgl|Jam|Lokasi|Desk — edit jadwal
+  ✅ .deljadwal nomor — hapus jadwal
+  ✅ .jadwal — lihat semua jadwal
+
+🎨 STIKER
+  ✅ .stiker — reply foto → jadi stiker
+  ✅ .brat teks — buat stiker teks ala brat
+  ✅ .smeme teks atas|teks bawah — reply foto → meme stiker
+
+📥 DOWNLOAD
+  ✅ .tiktok link — download video TikTok (tanpa watermark)
+
+💎 PREMIUM
+  ✅ .premium — cek status premium grup
+  ✅ .listprem — lihat semua grup premium aktif
+  ✅ .addprem jumlah_hari — tambah premium ke grup (owner)
+  ✅ .renew jumlah_hari — perpanjang premium grup (owner)
+  ✅ .delprem — hapus premium grup (owner)
+
+⚠️ WARN & MODERASI
+  ✅ .warn @tag alasan — beri peringatan (3x = kick otomatis)
+  ✅ .unwarn @tag — hapus warn member
+  ✅ .checkwarn @tag — cek jumlah warn member
+  ✅ .warnlist — lihat semua member kena warn di grup
+  ✅ .clearwarn — hapus semua warn di grup
+
+👟 KICK
+  ✅ .kick @tag — keluarkan member dari grup
+
+🤖 AUTO KICK (OTOMATIS)
+  ✅ Auto kick member yang kirim link grup WhatsApp
+  ✅ Auto kick member yang forward pesan dari grup lain
+  ✅ Auto kick member yang tag status WA ke grup
+
+🚫 ANTI SPAM STIKER
+  ✅ .antispam on/off — aktifkan/nonaktifkan anti spam stiker
+  ✅ Kirim 3 stiker dalam 10 detik → otomatis dikick
+
+🤬 ANTI KATA KASAR
+  ✅ .antikata on/off — aktifkan/nonaktifkan anti kata kasar
+  ✅ Kirim kata kasar → dapat warn, 3x warn = kick otomatis
+  ✅ Deteksi variasi penulisan (anjg, bgst, k0ntol, dll)
+
+📢 TAGALL
+  ✅ .tagall pesan — tag semua member grup sekaligus
+
+🔒 KONTROL GRUP
+  ✅ .tutup — kunci grup (hanya admin bisa chat)
+  ✅ .buka — buka grup kembali
+
+😴 AFK
+  ✅ .afk alasan — set status AFK, auto balas jika di-tag
+
+↩️ REPLY / FORWARD
+  ✅ .h — reply pesan → bot kirim ulang (forward)
+
+🏷️ CN GUILD
+  ✅ .cn — kirim CN (nama) guild
+  ✅ .setcn nama — ubah CN guild
+
+📡 PING
+  ✅ .ping — cek apakah bot aktif + latency
+
+🔑 LISENSI
+  ✅ .aktif <key> — aktivasi lisensi bot di grup
+  ✅ .ceklisensi — cek status & masa berlaku lisensi grup
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👑 FITUR OWNER (CHAT PRIBADI KE BOT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ .owner — lihat panel owner
+  ✅ .owner add 628xxx — tambah owner baru
+  ✅ .unowner 628xxx — hapus owner
+  ✅ .botinfo — info bot (RAM, uptime, total grup, dll)
+  ✅ .broadcast pesan — kirim pesan ke semua grup terdaftar
+  ✅ .license buat NamaGrup hari — buat key lisensi baru
+  ✅ .license list — lihat semua lisensi
+  ✅ .license cabut KEY — cabut lisensi aktif
+  ✅ .whitelist add/del/list — kelola whitelist grup (bebas lisensi)
+  ✅ .backupdb — backup semua database ke folder backups/
+  ✅ .restoredb — restore database dari backup terakhir
+  ✅ .selftest — cek status semua modul & database bot
+  ✅ .shutdown / .restart — matikan atau restart bot
+  ✅ .addadmin GroupID 628xxx — tambah admin guild
+  ✅ .deladmin GroupID 628xxx — hapus admin guild
+  ✅ .adminlist GroupID — lihat daftar admin guild
+  ✅ .eval kode — jalankan kode JavaScript langsung
+  ✅ .exec perintah — jalankan perintah terminal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 CARA BELI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Chat owner: [NOMOR KAMU]
+2. Kasih tau nama grup & mau berapa hari
+3. Transfer ke: [REKENING KAMU]
+4. Kirim bukti transfer
+5. Owner kirim KEY aktivasi
+6. Ketik di grup: .aktif [KEY]
+7. Bot langsung aktif!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚙️ LANGKAH OWNER (RAHASIA)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Pembeli transfer & kirim bukti
+2. Chat pribadi ke bot:
+   .license buat NamaGrup 30
+3. Bot balas KEY → kirim ke pembeli
+4. Pembeli ketik di grup:
+   .aktif LGB-XXXXXXXX-XXXXXXXX
+5. Selesai, bot aktif otomatis
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATATAN PELANGGAN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+No | Nama Grup       | Hari | Tgl Aktif  | Tgl Expired | Status
+1  | [nama grup]     | 30   | DD/MM/YYYY | DD/MM/YYYY  | AKTIF
+2  |                 |      |            |             |
+3  |                 |      |            |             |
+4  |                 |      |            |             |
+5  |                 |      |            |             |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💳 CATATAN PEMBAYARAN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+No | Nama      | Nominal  | Tgl        | Key                      | Ket
+1  | [nama]    | Rp ???   | DD/MM/YYYY | LGB-XXXX-XXXX            | LUNAS
+2  |           |          |            |                          |
+3  |           |          |            |                          |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔑 DAFTAR KEY AKTIF
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+KEY                        | GRUP            | STATUS
+LGB-XXXX-XXXX              | [nama grup]     | AKTIF
+                           |                 |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️ CATATAN PENTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• 1 key hanya untuk 1 grup
+• Key expired = bot nonaktif otomatis
+• Perpanjang sebelum expired
+• Backup database rutin pakai .backupdb
+• Jangan share key ke orang lain
