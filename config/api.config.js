@@ -2,7 +2,6 @@ import { createConfigManager } from "../lib/managers/config.manager.js"
 
 export const apiConfig = createConfigManager()
 
-apiConfig.registerSchema("api.spotify", (value) => typeof value === "string", "")
 apiConfig.registerSchema("api.youtube", (value) => typeof value === "string", "")
 apiConfig.registerSchema("api.gemini", (value) => typeof value === "string", "")
 apiConfig.registerSchema("api.openai", (value) => typeof value === "string", "")
