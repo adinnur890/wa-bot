@@ -1,5 +1,13 @@
 {
   "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js",
+    "nova": "node cli/nova.js"
+  },
+  "bin": {
+    "nova": "./cli/nova.js"
+  },
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@napi-rs/canvas": "^0.1.100",
@@ -10,6 +18,7 @@
     "node-webpmux": "^3.2.1",
     "pino": "^10.3.1",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.33.5"
+    "sharp": "^0.33.5",
+    "spotify-web-api-node": "^5.0.2"
   }
 }
